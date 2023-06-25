@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me - [ridhamgparmar@gmail.com](ridhamgparmar@gmail.com)
 
-- 💬 Ask me about **Java, HTML, CSS, Tailwind, JavaScript.**
+- 💬 Ask me about **Java, HTML, CSS, Tailwind, JavaScript, React.Js, Node.Js, Express.Js, MongoDB.**
 
 - 📫 Connect me on LinkedIn - **https://www.linkedin.com/in/ridhamparmar23**
 
